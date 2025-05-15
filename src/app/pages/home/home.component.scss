@@ -1,0 +1,150 @@
+// Alerta topo
+section.bg-primary.text-white {
+    font-size: 0.85rem;
+    padding: 0.4rem 0;
+  }
+  
+  // Header
+  header.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 0;
+  
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+  
+      img {
+        height: 72px;
+      }
+  
+      .info {
+        font-size: 0.9rem;
+        line-height: 1.2;
+      }
+    }
+  
+    .contato {
+      font-size: 0.85rem;
+      line-height: 1.3;
+      text-align: right;
+  
+      span {
+        color: #6c757d;
+        font-style: italic;
+      }
+    }
+  }
+  
+  
+  // Logos credenciais
+  section.d-flex.justify-content-center {
+  
+    img {
+      height: 40px;
+    }
+  }
+// Alerta topo
+section.bg-primary.text-white {
+    font-size: 0.85rem;
+    padding: 0.4rem 0;
+  }
+  
+  // Header
+  header.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+  
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+  
+      img {
+        height: 72px;
+      }
+  
+      .info {
+        font-size: 0.9rem;
+        line-height: 1.2;
+      }
+    }
+  
+    .contato {
+      font-size: 0.85rem;
+      line-height: 1.3;
+      text-align: right;
+  
+      span {
+        color: #6c757d;
+        font-style: italic;
+      }
+    }
+  }
+  
+  // Hero
+  .hero {
+    text-align: center;
+    padding-top: 1.5rem;
+  
+    h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+    }
+  
+    h2 {
+      margin-top: 1.5rem;
+      font-size: 1.25rem;
+  
+      span {
+        color: red;
+        font-weight: bold;
+      }
+    }
+  
+    .btn {
+      margin-top: 1.5rem;
+      font-weight: bold;
+      background-color: #3e2ce4;
+      border-color: #3e2ce4;
+  
+      &:hover {
+        background-color: #2a20ac;
+      }
+    }
+  
+    img {
+      max-height: 280px;
+    }
+  }
+  
+  // Logos credenciais
+  section.d-flex.justify-content-center {
+    gap: 3rem;
+    margin-top: 3rem;
+  
+    img {
+      height: 40px;
+    }
+  }
+    
+  #servicos {
+    h2 {
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+  
+    img {
+      max-height: 50px;
+      object-fit: contain;
+    }
+  
+    .bg-black {
+      background-color: #111 !important;
+    }
+  }
+  
